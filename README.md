@@ -1,6 +1,7 @@
 # webportfolio
 This website will be my developer resume hosted on a public domain
 Ex: https://www.youtube.com/watch?v=hYv6BM2fWd8
+Dev Resources -> https://webdecoded.notion.site/webdecoded/Dev-Resources-40656a79e51e4dd6ad8988515de19e57
 
 Step 1: Downloading and installing Node.js and npm
 Link --> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
@@ -15,9 +16,9 @@ Link to navbar --> https://react-bootstrap.github.io/components/navbar/
 Step 4: Create Components folder in src and add NavBar.js and import bootstrap navbar code
 
 
-
-
-
+#
+#
+#
 
 This project was bootstrapped with Create React App.
 
