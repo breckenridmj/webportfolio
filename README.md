@@ -21,7 +21,7 @@ Step 4: Create Components folder in src and add NavBar.js and import bootstrap n
 <br />
 <br />
 
-This project was bootstrapped with Create React App. <br />
+This project was bootstrapped with Create React App. <br /> <br />
 
 
 Built using: <br />
