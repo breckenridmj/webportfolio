@@ -3,17 +3,17 @@ This website will be my developer resume hosted on a public domain
 Ex: https://www.youtube.com/watch?v=hYv6BM2fWd8 <br />
 Dev Resources -> https://webdecoded.notion.site/webdecoded/Dev-Resources-40656a79e51e4dd6ad8988515de19e57 <br />
 
-<h1>Step 1:</h1> Downloading and installing Node.js and npm
+<h2>Step 1:</h2> Downloading and installing Node.js and npm
 Link --> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm <br />
 
-Step 2: Create React App
+<h2>Step 2:</h2> Create React App
 Link --> https://create-react-app.dev/docs/getting-started <br />
 
-Step 3: Using Bootstrap Components
+<h2>Step 3:</h2> Using Bootstrap Components
 Link --> https://react-bootstrap.github.io/
 Link to navbar --> https://react-bootstrap.github.io/components/navbar/ <br />
 
-Step 4: Create Components folder in src and add NavBar.js and import bootstrap navbar code <br />
+<h2>Step 4:</h2> Create Components folder in src and add NavBar.js and import bootstrap navbar code <br />
 
 
 <br />
