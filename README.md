@@ -1,5 +1,5 @@
-# webportfolio
-This website will be my developer resume hosted on a public domain
+<h1> Malcolm's Web Portfolio <h1 />
+This website will be my developer resume hosted on a public domain <br />
 Ex: https://www.youtube.com/watch?v=hYv6BM2fWd8 <br />
 Dev Resources -> https://webdecoded.notion.site/webdecoded/Dev-Resources-40656a79e51e4dd6ad8988515de19e57 <br />
 
