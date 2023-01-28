@@ -5,6 +5,19 @@ Dev Resources -> https://webdecoded.notion.site/webdecoded/Dev-Resources-40656a7
 
 <h2>Step 1:</h2> Downloading and installing Node.js and npm <br />
 Link --> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm <br />
+create a folder in C drive 
+
+Open Command Prompt
+CD/
+dir 
+cd folder name
+install react app
+npm init react-app web-portfolio
+then install bootstrap
+npm install react-bootstrap bootstrap
+in the folder run 
+npm start (starts local host)
+
 
 <h2>Step 2:</h2> Create React App
 Link --> https://create-react-app.dev/docs/getting-started <br />
