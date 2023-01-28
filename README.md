@@ -17,6 +17,7 @@ then install bootstrap
 npm install react-bootstrap bootstrap
 npm install react-bootstrap-icons --save
 npm install react-multi-carousel --save
+react tabs for project section -> https://react-bootstrap.github.io/components/tabs/
 in the folder run 
 npm start (starts local host)
 open folder in vs code
