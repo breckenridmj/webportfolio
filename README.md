@@ -15,6 +15,7 @@ install react app
 npm init react-app web-portfolio
 then install bootstrap
 npm install react-bootstrap bootstrap
+npm install react-bootstrap-icons --save
 in the folder run 
 npm start (starts local host)
 open folder in vs code
