@@ -17,6 +17,7 @@ then install bootstrap
 npm install react-bootstrap bootstrap
 in the folder run 
 npm start (starts local host)
+open folder in vs code
 
 
 <h2>Step 2:</h2> Create React App
