@@ -30,6 +30,11 @@ create a mailchimp account
 -go to audience then sign up forms
 - open developer mode and copy the U & id from the form in the form div
 
+added to navbar react router hash link -> https://www.npmjs.com/package/react-router-hash-link
+npm i react-router-hash-link
+added to navbar react router dom -> https://www.npmjs.com/package/react-router-dom?activeTab=readme
+npm i react-router-dom
+
 
 <h2>Step 2:</h2> Create React App
 Link --> https://create-react-app.dev/docs/getting-started <br />
