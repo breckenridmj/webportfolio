@@ -23,6 +23,14 @@ npm start (starts local host)
 open folder in vs code
 
 
+setup mailchimp in terminal project folder
+npm install express cors nodemailer
+create server file and enter email and app password
+create a mailchimp account
+-go to audience then sign up forms
+- open developer mode and copy the U & id from the form in the form div
+
+
 <h2>Step 2:</h2> Create React App
 Link --> https://create-react-app.dev/docs/getting-started <br />
 
