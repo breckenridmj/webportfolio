@@ -30,6 +30,12 @@ create a mailchimp account
 -go to audience then sign up forms
 - open developer mode and copy the U & id from the form in the form div
 
+- signed up for emailjs.com
+- connected using web app code and tested email
+- emailjs install npm -> https://www.emailjs.com/docs/sdk/installation/
+
+
+
 - grid layout for columns -> https://react-bootstrap.github.io/layout/grid/
 
 added to navbar react router hash link -> https://www.npmjs.com/package/react-router-hash-link
