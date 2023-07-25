@@ -10,16 +10,16 @@ create a folder in C drive
 Open Command Prompt
 CD/
 dir 
-cd folder name
+cd folder name where react web will be installed
 install react app
-npm init react-app web-portfolio
+>npm init react-app web-portfolio
 then install bootstrap
-npm install react-bootstrap bootstrap
-npm install react-bootstrap-icons --save
-npm install react-multi-carousel --save
+>npm install react-bootstrap bootstrap
+>npm install react-bootstrap-icons --save
+>npm install react-multi-carousel --save
 react tabs for project section -> https://react-bootstrap.github.io/components/tabs/
 in the folder run 
-npm start (starts local host)
+>npm start (starts local host)
 open folder in vs code
 
 
